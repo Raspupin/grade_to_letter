@@ -1,9 +1,6 @@
 package grade_for_chars;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
 	public static String returnAGrade(int numbericGrade) {
